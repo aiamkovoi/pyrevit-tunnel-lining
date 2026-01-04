@@ -19,7 +19,7 @@ One-click automated placement of adaptive tunnel lining segments along Civil 3D 
 ## Installation
 
 Watch this video to learn how to install a pyRevit extension:
-https://www.youtube.com/watch?v=sNVYFyF5biI&t=158s
+https://youtu.be/sNVYFyF5biI?si=gH3pylZZuGkwDtMV
 
 1. Clone or download this repository to any folder, for example:
 C:\MyPyRevitExtension
