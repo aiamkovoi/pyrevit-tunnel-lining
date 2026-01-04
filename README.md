@@ -2,7 +2,7 @@
 
 One-click automated placement of adaptive tunnel lining segments along Civil 3D alignments in Revit.
 
-![Tunnel Placement Result](docs/result.png)
+![Tunnel Placement](docs/icon.png)
 
 ## What it does
 
