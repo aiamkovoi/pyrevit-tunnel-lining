@@ -21,10 +21,10 @@ One-click automated placement of adaptive tunnel lining segments along Civil 3D 
 Watch this video to learn how to install a pyRevit extension:
 https://youtu.be/sNVYFyF5biI?si=gH3pylZZuGkwDtMV
 
-1. Clone or download this repository to any folder, for example:
+1. Clone or download "LinkedIn.extension" to any folder, for example:
 C:\MyPyRevitExtension
 Possible full path to your extension:
-C:\MyPyRevitExtension\TunnelLining.extension
+C:\MyPyRevitExtension\LinkedIn.extension
 2. In pyRevit go to Settings → Add Folder → select C:\MyPyRevitExtension
 3. Reload pyRevit
 4. Find "Tunnel Adaptive" button in the toolbar
@@ -45,7 +45,7 @@ Adaptive families must have:
 - **Rotation_start** parameter (angle, radians)
 - **Rotation_end** parameter (angle, radians)
 
-Default families: `Invert_segment, Haunch_right, Haunch_left, Crown, Base_segment`
+Default families: `Crown, Base`
 
 ## Configuration
 
