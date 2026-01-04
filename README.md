@@ -33,7 +33,7 @@ One-click automated placement of adaptive tunnel lining segments along Civil 3D 
 2. Load adaptive tunnel families (see requirements below)
 3. Run the script
 4. Enter family names (comma-separated)
-5. Click on the **first** line segment — this defines the direction
+5. Click on ANY line segment (script finds full chain in both directions)
 6. Script automatically finds connected segments and places components
 
 ## Family Requirements
