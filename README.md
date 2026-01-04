@@ -77,7 +77,7 @@ MIT License — free to use and modify.
 
 ## Author
 
-**Alex Iamkovoi** — Structural BIM Coordinator transitioning to Infrastructure BIM
+**Aleksandr Iamkovoi** — BIM Modeller | MSc in Civil Engineering
 
 - [LinkedIn](https://linkedin.com/in/aiamkovoi)
 - [GitHub](https://github.com/aiamkovoi)
