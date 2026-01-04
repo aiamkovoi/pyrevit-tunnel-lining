@@ -81,4 +81,5 @@ MIT License — free to use and modify.
 
 - [LinkedIn](https://linkedin.com/in/aiamkovoi)
 - [GitHub](https://github.com/aiamkovoi)
+  
 Code developed with assistance from Claude AI.
