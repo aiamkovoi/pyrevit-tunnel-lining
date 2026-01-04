@@ -71,7 +71,7 @@ For the full workflow explanation, see my [LinkedIn post](https://linkedin.com/i
 
 ## Credits
 
-Approach to fast pyRevit plugins inspired by [Erik Frits](https://www.linkedin.com/in/erik-frits/) and [LearnPyRevit](https://learnpyrevit.com/).
+Approach to fast pyRevit plugins inspired by [Erik Frits](https://www.linkedin.com/in/erik-frits/) and [Learn Revit API](https://www.learnrevitapi.com/).
 
 ## License
 
