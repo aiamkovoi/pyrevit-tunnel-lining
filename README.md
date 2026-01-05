@@ -67,7 +67,7 @@ This tool is part of a Civil 3D → Revit infrastructure workflow:
 3. Link DWG into Revit
 4. Run this script to place tunnel lining
 
-For the full workflow explanation, see my [LinkedIn post](https://linkedin.com/in/aiamkovoi).
+For the full workflow explanation, see my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7413821620211007488/).
 
 ## Credits
 
